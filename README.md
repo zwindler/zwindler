@@ -8,6 +8,9 @@ I like sci-fi, running (though slowly) and exploring new places.
 
 <a href="https://github.com/zwindler?tab=followers"><img src="https://img.shields.io/github/followers/zwindler?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" /></a></p>
 
+
+
+<!--
 ## My Github Stats
 <table><tr><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=zwindler&show_icons=true&theme=merko&count_private=true&hide_border=true" align="left" style="width: 100%" />
@@ -16,7 +19,6 @@ I like sci-fi, running (though slowly) and exploring new places.
 </td></tr></table>
 <br/>
 
-<!--
 **zwindler/zwindler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
