@@ -6,18 +6,12 @@ I'm also keen on learning and sharing what he discovered with his peers, either 
 
 I like sci-fi, running (though slowly) and exploring new places.
 
-<a href="https://github.com/zwindler?tab=followers"><img src="https://img.shields.io/github/followers/zwindler?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" /></a></p>
+<a href="https://github.com/zwindler?tab=followers"><img src="https://img.shields.io/github/followers/zwindler?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" /></a> <a href="https://twitter.com/zwindler" target="blank"><img src="https://img.shields.io/twitter/follow/zwindler?logo=twitter&style=for-the-badge" alt="zwindler" /></a> <a href="https://www.linkedin.com/in/denis-germain/"><img src="https://img.shields.io/badge/denis--germain-1.5K-blue?style=for-the-badge&logo=linkedin" alt="linkedin-denis-germain" /></a>
 
-
+## My Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=zwindler&show_icons=true&theme=radical&count_private=true&hide_border=true" style="width:48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zwindler&theme=radical&count_private=true&hide_border=true&layout=compact&hide=html&langs_count=6" style="width:40%" />
 
 <!--
-## My Github Stats
-<table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=zwindler&show_icons=true&theme=merko&count_private=true&hide_border=true" align="left" style="width: 100%" />
-</td><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zwindler&theme=merko&hide_border=true&layout=compact" align="left" style="width: 100%" />
-</td></tr></table>
-<br/>
 
 **zwindler/zwindler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
