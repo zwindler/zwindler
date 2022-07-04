@@ -1,8 +1,8 @@
 ## Howdy fellow tech enthusiast 👋, I'm zwindler!
 
-Senior SRE the day, blogger the night. I'm a tech enthusiast that loves monitoring, virtualisation and automating infrastructure.
+Senior SRE the day, blogger the night. I'm a tech enthusiast that love monitoring, virtualisation and automating infrastructure.
 
-I'm also keen on learning and sharing what he discovered with his peers, either by writing tech articles or by being a speaker at local meetups to international conferences.
+I'm also keen on learning and sharing what I discover with ly peers, either by writing tech articles or by being a speaker at events ranging from local meetups to international conferences.
 
 I like sci-fi, running (though slowly) and exploring new places.
 
