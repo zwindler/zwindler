@@ -6,7 +6,7 @@ I'm also keen on learning and sharing what I discover with ly peers, either by w
 
 I like sci-fi, running (though slowly) and exploring new places.
 
-<a href="https://www.linkedin.com/in/denis-germain/"><img src="https://img.shields.io/badge/denis--germain-4.8K-blue?style=for-the-badge&logo=linkedin" alt="linkedin-denis-germain" /></a> <a href="https://bsky.app/profile/zwindler.fr"><img src="https://img.shields.io/badge/zwindler--fr-1.3K-blue?style=for-the-badge&logo=bluesky" alt="bluesky-zwindler-fr" /></a>  <a href="https://github.com/zwindler?tab=followers"><img src="https://img.shields.io/github/followers/zwindler?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" /></a> 
+<a href="https://www.linkedin.com/in/denis-germain/"><img src="https://img.shields.io/badge/denis--germain-4.9K-blue?style=for-the-badge&logo=linkedin" alt="linkedin-denis-germain" /></a> <a href="https://bsky.app/profile/zwindler.fr"><img src="https://img.shields.io/badge/zwindler--fr-1.3K-blue?style=for-the-badge&logo=bluesky" alt="bluesky-zwindler-fr" /></a>  <a href="https://github.com/zwindler?tab=followers"><img src="https://img.shields.io/github/followers/zwindler?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" /></a> 
 
 ## My Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=zwindler&show_icons=true&theme=radical&count_private=true&hide_border=true" style="width:55%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zwindler&theme=radical&count_private=true&hide_border=true&layout=compact&hide=html&langs_count=6" style="width:42%" />
