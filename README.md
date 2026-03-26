@@ -7,7 +7,7 @@ I'm also keen on learning and sharing what I discover with ly peers, either by w
 I like sci-fi, running (though slowly) and exploring new places.
 
 <a href="https://www.linkedin.com/in/denis-germain/"><img src="https://img.shields.io/badge/denis--germain-5.3K-blue?style=for-the-badge" alt="linkedin-denis-germain" /></a> <a href="https://bsky.app/profile/zwindler.fr"><img alt="Bluesky followers" src="https://img.shields.io/bluesky/followers/zwindler.fr?style=for-the-badge&logo=bluesky">
-</a>  <a href="https://github.com/zwindler?tab=followers"><img src="https://img.shields.io/badge/zwindler-151-blue?style=for-the-badge&logo=github" alt="github-denis-germain" /></a> 
+</a>  <a href="https://github.com/zwindler?tab=followers"><img src="https://img.shields.io/badge/zwindler-156-blue?style=for-the-badge&logo=github" alt="github-denis-germain" /></a> 
 
 <!--
 
